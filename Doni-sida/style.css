@@ -1,0 +1,25 @@
+#header-bild{
+    margin: 3% 3% 3% 3%; 
+}
+
+#bild-1{
+    float: right;
+    margin-left: 10%
+}
+
+h1{
+    text-align: center;
+}
+
+.art{
+    margin: 5%;
+}
+
+#exc-gif{
+    width: 45%;
+    margin-left: 30%;
+}
+
+.artic {
+    margin-right: 30%;
+}
